@@ -1,6 +1,6 @@
 AUTHOR = 'thomascytosis'
 SITENAME = 'aStoneFruit'
-SITEURL = '.'
+SITEURL = 'https://thomascytosis.github.io/ssgApricot/'
 
 PATH = 'content'
 OUTPUT_PATH = 'docs'
